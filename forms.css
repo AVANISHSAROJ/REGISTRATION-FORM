@@ -1,0 +1,13 @@
+body{
+    background-color: rgba(69, 228, 236, 0.661);
+    text-align: justify;
+    margin: 0;
+    padding: 0;
+}
+h1{
+   margin: 0; 
+   padding: 0;
+    text-align: center;
+    color: black ;
+    background:linear-gradient(#FF9933 30%,#FFFFFF 35%, #138808 ,#000080);
+}
